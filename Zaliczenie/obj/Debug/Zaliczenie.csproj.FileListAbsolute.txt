@@ -1,0 +1,11 @@
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Form1.resources
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.GenerateResource.cache
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\Users\kamil\OneDrive\Pulpit\studia\c#\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.pdb

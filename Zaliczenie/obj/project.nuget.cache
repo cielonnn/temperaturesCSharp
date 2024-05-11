@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SiUoAzXRsI7g/3fV1t2Bca47zQQFY5l9U+Q7yH6AWRdERVWda9yswz+blwjF1MKODP+XvnCAI3el2MbkmXR5Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamil\\OneDrive\\Pulpit\\studia\\c#\\Zaliczenie\\zaliczenie\\zaliczenie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamil\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
